@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 
 I am a technology enthusiast and a dedicated student in the field of programming and development. I'm looking to turn my passion into a successful career in the world of software development. My goal is to contribute to innovative projects, grow professionally and continue learning from the best.
 
@@ -6,7 +6,7 @@ I am a technology enthusiast and a dedicated student in the field of programming
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/lucasklein.18/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lucaswanderosck)
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
@@ -18,7 +18,7 @@ I am a technology enthusiast and a dedicated student in the field of programming
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 ![Lucas Wanderosck - GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucaswanderosck&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
