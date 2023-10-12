@@ -1,7 +1,7 @@
 ## 💫 About Me:
 
-🔭 I am a technology enthusiast and a dedicated student in the field of programming and development. 
-🌱 I'm looking to turn my passion into a successful career in the world of software development. 
+🔭 I am a technology enthusiast and a dedicated student in the field of programming and development. <br/>
+🌱 I'm looking to turn my passion into a successful career in the world of software development. <br/>
 🎯 My goal is to contribute to innovative projects, grow professionally and continue learning from the best.
 
 ## 🌐 Socials:
