@@ -1,6 +1,8 @@
 ## 💫 About Me:
 
-I am a technology enthusiast and a dedicated student in the field of programming and development. I'm looking to turn my passion into a successful career in the world of software development. My goal is to contribute to innovative projects, grow professionally and continue learning from the best.
+🔭 I am a technology enthusiast and a dedicated student in the field of programming and development. 
+🌱 I'm looking to turn my passion into a successful career in the world of software development. 
+🎯 My goal is to contribute to innovative projects, grow professionally and continue learning from the best.
 
 ## 🌐 Socials:
 
@@ -23,3 +25,6 @@ I am a technology enthusiast and a dedicated student in the field of programming
 ![Lucas Wanderosck - GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucaswanderosck&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswanderosck&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=lucaswanderosck&icon=0&color=0)](https://visitcount.itsvg.in)
